@@ -6,6 +6,9 @@ v2.4.5:
 - Update package.json version
 - updated changelog with already released versions
 
+
+
+
 v2.3.4
 - Fix issue #1093
 - Fix issue #427 by updating slimscroll
